@@ -1,0 +1,23 @@
+name: Clayton Street
+favicon: null
+layout_spectrum: 0.9071387860458344
+typography_spectrum: 0.26146564236842096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.46464940859004855
+  lightness: 0.14862551866099238
+  saturation: 0.5254054840188473
+  rhythmicContrast: 0.16786374198272824
+purpose: []
